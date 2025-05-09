@@ -1,0 +1,26 @@
+{
+  "moduleID": "sampleinstallplugin",
+  "moduleName": "Sample Install Plugin",
+  "moduleVersion": "1.0.0",
+  "moduleDescription": "A sample plugin demonstrating the installation process for CliniKit plugins.",
+  "author": {
+    "name": "CliniKit",
+    "email": "mail@clinikit.org",
+    "url": "https://clinikit.org"
+  },
+  "license": {
+    "name": "MIT",
+    "url": "https://opensource.org/licenses/MIT"
+  },
+  "dependencies": {},
+  "cardDescription": {
+    "title": "Sample Plugin",
+    "description": "Demo plugin showing how installation works in CliniKit.",
+    "icon": "code",
+    "iconColor": "text-blue-500"
+  },
+  "database": {
+    "tableName": "sample_plugin_data",
+    "description": "Collection/table for storing sample plugin demonstration data"
+  }
+}

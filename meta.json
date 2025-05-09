@@ -1,0 +1,28 @@
+{
+  "repositoryName": "CliniKit Plugins Repository",
+  "repositoryDescription": "Official repository for CliniKit plugins and modules",
+  "repositoryVersion": "1.0.0",
+  "repositoryMaintainer": {
+    "name": "CliniKit Team",
+    "email": "plugins@clinikit.org",
+    "url": "https://clinikit.org/plugins"
+  },
+  "lastUpdated": "2025-05-09T10:00:00Z",
+  "plugins": [
+    {
+      "moduleID": "sampleinstallplugin",
+      "moduleName": "Sample Install Plugin",
+      "moduleVersion": "1.0.0",
+      "path": "plugins/SampleInstallPlugin",
+      "description": "A sample plugin demonstrating the installation process for CliniKit plugins.",
+      "category": "demo",
+      "tags": ["sample", "installation", "tutorial"],
+      "releaseDate": "2025-04-15T09:00:00Z",
+      "requiresCore": "1.0.0",
+      "installSize": "10KB",
+      "verified": true,
+      "downloads": 125,
+      "rating": 4.8
+    }
+  ]
+}

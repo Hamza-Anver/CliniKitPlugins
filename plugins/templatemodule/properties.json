@@ -1,0 +1,27 @@
+{
+  "moduleID": "templatemodule",
+  "moduleName": "Template Module",
+  "moduleVersion": "1.0.0",
+  "moduleDescription": "Template Module for CliniKit",
+  "author": {
+    "name": "CliniKit",
+    "email": "mail@clinikit.org",
+    "url": "https://clinikit.org"
+  },
+  "license": {
+    "name": "MIT",
+    "url": "https://opensource.org/licenses/MIT"
+  },
+  "dependencies": {},
+  "cardDescription": {
+    "title": "Template Module",
+    "description": "This is a template module for CliniKit.",
+    "icon": "tab_unselected",
+    "iconColor": "text-blue-500"
+  },
+
+  "database":{
+    "tableName" : "placeholder",
+    "description" : "This is a placeholder table for the template module."
+  }
+}
