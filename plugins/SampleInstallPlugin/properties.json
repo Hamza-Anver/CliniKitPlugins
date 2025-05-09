@@ -12,6 +12,7 @@
     "name": "MIT",
     "url": "https://opensource.org/licenses/MIT"
   },
+  "downloadURL": "https://raw.githubusercontent.com/Hamza-Anver/CliniKitPlugins/refs/heads/main/plugins/SampleInstallPlugin.zip",
   "dependencies": {},
   "cardDescription": {
     "title": "Sample Plugin",
